@@ -1,0 +1,7 @@
+client_id,age_group,employment_status,sector,country
+C001,25-34,salaried,services,FR
+C002,35-44,salaried,industry,DE
+C003,45-54,self-employed,construction,ES
+C004,30-39,salaried,finance,FR
+C005,55-64,other,public,IT
+C006,40-49,salaried,health,PT
