@@ -23,13 +23,13 @@ Ce projet se concentre sur la méthode et la logique métier, et non sur l’exp
 
 ## Sécurité des données et éthique
 
-- Toutes les données sont \*\*100 % fictives et anonymisées\*\*
+- Toutes les données sont 100 % fictives et anonymisées
 
 - Aucun client réel, aucun nom, aucun montant réel
 
 - Aucune donnée personnelle ou sensible n’est utilisée
 
-- L’IA est utilisée uniquement comme \*\*outil d’aide à la structuration et au raisonnement\*\*
+- L’IA est utilisée uniquement comme outil d’aide à la structuration et au raisonnement
 
 - Aucune donnée confidentielle n’est transmise ou traitée par un modèle d’IA
 
