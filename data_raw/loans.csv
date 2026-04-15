@@ -1,0 +1,7 @@
+loan_id,client_id,loan_type,amount_bucket,maturity,interest_rate_bucket
+L001,C001,mortgage,100k-200k,20y,low
+L002,C002,consumer,10k-30k,5y,medium
+L003,C003,mortgage,200k-300k,25y,medium
+L004,C004,consumer,5k-15k,3y,high
+L005,C005,mortgage,150k-250k,15y,low
+L006,C006,consumer,10k-20k,4y,medium

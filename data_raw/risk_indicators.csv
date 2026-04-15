@@ -1,0 +1,7 @@
+loan_id,pd_bucket,lgd_bucket,risk_score
+L001,low,low,20
+L002,medium,medium,45
+L003,medium,high,60
+L004,high,medium,70
+L005,low,low,25
+L006,medium,medium,50

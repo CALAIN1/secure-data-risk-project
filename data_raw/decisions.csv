@@ -1,0 +1,7 @@
+loan_id,decision,decision_reason
+L001,approved,low risk profile
+L002,approved,moderate risk acceptable
+L003,rejected,high loss given default
+L004,rejected,high probability of default
+L005,approved,stable low risk profile
+L006,approved,moderate risk acceptable
